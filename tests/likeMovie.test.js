@@ -7,6 +7,7 @@ describe('Liking A Movie', () => {
     document.body.innerHTML = '<div id="likeButtonContainer"></div>';
   };
 
+  
   beforeEach(() => {
     addLikeButtonContainer();
 
